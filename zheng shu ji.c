@@ -1,3 +1,4 @@
+//输出3位与数字A连续且互不相等的组合 
 #include<stdio.h>
 int main()
 {
